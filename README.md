@@ -44,5 +44,3 @@ A simple front-end Voting Machine demo demonstrating an EVM (Electronic Voting M
 - For production-grade voting, add secure authentication, tamper-evident audit logs, server-side tallying, and legal compliance checks.
 
 ---
-
-If you'd like, I can: add per-candidate counters, persist votes to `localStorage`, or implement a small admin panel to reset counts. Want one of those next?
